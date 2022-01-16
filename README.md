@@ -1,4 +1,4 @@
-# 👋 Olá! Sou a Tatiane Corrêa!
+# 👋😄 Olá! Sou a Tatiane Corrêa!
 Sou uma física, com mais de 2 anos de experiência em análise de dados para fins acadêmicos aplicados à Física e Astronomia 🔭.  Possuo conhecimento em programação funcional, Python, SQL e Matemática Avançada (Estatística, Cálculo e Álgebra Linear). Tenho interesse em análise de dados, bancos de dados, Machine Learning, boas práticas e Astrofísica.
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taticorrea&layout=compact&langs_count=7&theme=dracula"/>    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=taticorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
