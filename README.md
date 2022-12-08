@@ -1,3 +1,14 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4VDN565PWM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4VDN565PWM');
+</script>
+
+
 # 👋😄 Olá! Sou a Tatiane Corrêa!
 Sou uma física, com mais de 2 anos de experiência em análise de dados para fins acadêmicos aplicados à Física e Astronomia 🔭.  Possuo conhecimento em programação funcional, Python, SQL e Matemática Avançada (Estatística, Cálculo e Álgebra Linear). Tenho interesse em Data Engineeering, Data Science, Machine Learning e Analytics.
 
